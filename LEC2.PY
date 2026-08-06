@@ -7,3 +7,9 @@ print(Age)
 side = int(input())
 area = side*side
 print(area)
+
+#float functionTriel
+Number = float(input())
+N2 = float(input())
+Sum = Number+N2
+print(Sum)
