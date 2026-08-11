@@ -19,7 +19,8 @@
 
                 git pull HTTPSLINK ~ Command
   ```
-    ![Image1](image/image1.png)
+
+  ![Image1](image/image1.png)
                                     
   ## 
                             
