@@ -17,4 +17,8 @@
                     Open vsCode> OpenNewFolder> OpenTerminal(Respective Folder's Terminal IN VSCODE)> "USE the command(DOWN)"   
 
                                    git pull HTTPSLINK ~ Command
+
+                  ![Image1](image/image1.png)
+                                    
+  ## 
                             
