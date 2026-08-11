@@ -9,16 +9,17 @@
 
 
   ## Make a repo in ur gitHub Official site
-             
-                    GITHUB SITE ("https://github.com/")> LogIN> MakeNewRepo(PrivateRepo)
-  
+   ```
+
+   GITHUB SITE ("https://github.com/")> LogIN> MakeNewRepo(PrivateRepo)
+  ```
   ## CLONE THE REPO IN "VS CODE"     
+  ```
+   Open vsCode> OpenNewFolder> OpenTerminal(Respectiv)Folder's Terminal IN VSCODE> "USE the command(DOWN)"   
 
-                    Open vsCode> OpenNewFolder> OpenTerminal(Respective Folder's Terminal IN VSCODE)> "USE the command(DOWN)"   
-
-                                   git pull HTTPSLINK ~ Command
-
-                  ![Image1](image/image1.png)
+                git pull HTTPSLINK ~ Command
+  ```
+    ![Image1](image/image1.png)
                                     
   ## 
                             
