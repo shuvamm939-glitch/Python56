@@ -28,19 +28,19 @@
    ```
    cd [Tab(Kye)] 
    ```
-   ## WRITE & SAVE CODE
+  ## WRITE & SAVE CODE
 
     USE KYESHORTCUT
     ```
     Ctrl+S
     ```
-   ## ADD THE SAVED CODE IN TERMINAL
+  ## ADD THE SAVED CODE IN TERMINAL
    
      OPEN TERMINAL IN VS CODE RUN
      ```
      git add .
      ```
-   ## COMMIT THE ADDED CODE IN TERMINAL
+  ## COMMIT THE ADDED CODE IN TERMINAL
      
      RUN THE COMMAND
      ```
