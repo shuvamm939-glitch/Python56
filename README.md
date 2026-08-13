@@ -30,19 +30,19 @@
    ```
   ## WRITE & SAVE CODE
 
-    USE KYESHORTCUT
+   USE KYESHORTCUT
     ```
     Ctrl+S
     ```
   ## ADD THE SAVED CODE IN TERMINAL
    
-     OPEN TERMINAL IN VS CODE RUN
+   OPEN TERMINAL IN VS CODE RUN
      ```
      git add .
      ```
   ## COMMIT THE ADDED CODE IN TERMINAL
      
-     RUN THE COMMAND
+   RUN THE COMMAND
      ```
      git commit -m "info"
      ```
