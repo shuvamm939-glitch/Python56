@@ -46,4 +46,10 @@
      ```
      git commit -m "info"
      ```
+  ## NOW PUSH THE COMMITED CODE IN GitHub
    
+   RUN THE CODE
+     ```
+     git push -u origin main
+     ```
+     
