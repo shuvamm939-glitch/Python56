@@ -55,8 +55,12 @@
   ![Image2](Image/Image2.png)
 
   ## ADD IMAGES IN GIT HUB REPO'S LIKE THIS
-
+   
+   make a folder named Image then which image u wanna give, pest that image in Image folder then exact pest the formate like given in the Image1 here in README.md file formate given 
+    ```
+    ![imagename](imagepath)
+    ```
+    
   ![image](Image/image.png)
 
   ![Image2.0](Image/Image2.0.png)
-  
