@@ -52,4 +52,11 @@
      ```
      git push -u origin main
      ```
-     
+  ![Image2](Image/Image2.png)
+
+  ## ADD IMAGES IN GIT HUB REPO'S LIKE THIS
+
+  ![image](Image/image.png)
+
+  ![Image2.0](Image/Image2.0.png)
+  
