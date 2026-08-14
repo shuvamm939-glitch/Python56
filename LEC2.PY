@@ -15,3 +15,10 @@ Sum = Number+N2
 print(Sum)
 
 print("Hello World!")
+
+# Q. Take the name, age and height (in inches) of the students as input and print them.
+name = input("Enter Your Name:")
+age = int(input("Enter Your Age:"))
+Height = float(input("Enter Your Height in inches:"))
+print(".................................")
+print (name,age,Height)
