@@ -24,4 +24,3 @@ print(N1+N2,N1-N2,N1*N2,N1/N2,N1//N2,N1%N2,N1**N2)
 N1 = int(input())
 N2 = int(input())
 print(("Addition:",N1+N2),("Subtraction:",N1-N2),("Multiplication:",N1*N2),("Division:",N1/N2),("Floor Division:",N1//N2),("Modulus:",N1%N2),("Power:",N1**N2))
-
