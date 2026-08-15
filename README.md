@@ -22,7 +22,7 @@
 
   ![Image1](Image/Image1.png)
                                     
-  ## EITHER U ARE NOT INTO MAIN BRUNCH THEN GO FOR THAT WITH THIS COMMAND
+  ## EITHER U WANT FIND THE PATH OF EXATCT WORKSPACE
    
    Open Terminal in VS Code And Run
    ```
