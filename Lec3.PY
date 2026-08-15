@@ -24,3 +24,25 @@ print(N1+N2,N1-N2,N1*N2,N1/N2,N1//N2,N1%N2,N1**N2)
 N1 = int(input())
 N2 = int(input())
 print(("Addition:",N1+N2),("Subtraction:",N1-N2),("Multiplication:",N1*N2),("Division:",N1/N2),("Floor Division:",N1//N2),("Modulus:",N1%N2),("Power:",N1**N2))
+
+##Assignment Operators
+x = 5 #Ex.1
+x +=10 #x = x + 10(same as x+=10)
+print(x)
+
+x = 10 #Ex=2
+x -= 5
+print(x)
+
+x = 10 #Ex.3
+x *= 5
+print(x)
+
+x = 10 #Ex.4
+x /= 5
+print(x)
+
+x = 10 #Ex.5
+x//= 5
+print(x)
+
