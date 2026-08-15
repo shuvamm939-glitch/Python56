@@ -50,6 +50,7 @@ x = 10 #Ex.6
 x%= 5
 print(x)
 
-x = 10 #Ex.7
+x = 20 #Ex.7
 x**= 5
 print(x)
+
