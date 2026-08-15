@@ -64,10 +64,14 @@
   ![image](Image/image.png)
 
   ![Image2.0](Image/Image2.0.png)
+
+  ## GITHUB BRUNCH CHANGE COMMAND(usuakky use it for work into forks)
+
+     git checkout -b brunchname
   
   ## Python Game Engine(Newly added cheak out the site)
 
      https://www.ursinaengine.org/index.html
 
- ##TEST 
+ ## TEST 
 
