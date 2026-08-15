@@ -5,3 +5,18 @@ print(3+2)
 print(9*3)
 print(9/3)  ##[Single Division] It will give the float value(Ex.3.0)
 print(9//3) ##[Floor Division] It will give the integer value(Ex.3)
+
+###Modulus Operator --->"%"
+print(9%2) ## It will give the remainder value(Ex.1),it's like in bengali Bhagsesh
+print(9%3) ## 0(Ex.0)
+
+###Power Operator --->"**"
+print(9**3) ## It will give the power value(Ex.729),it's like in bengali Gunitok(Power)
+
+
+#Q.Calculator
+#take two int as input from user and print the sum,subtraction,multiplication,division,floor division,modulus,power of them.
+N1 = int(input())
+N2 = int(input())
+print(N1+N2,N1-N2,N1*N2,N1/N2,N1//N2,N1%N2,N1**N2)
+
