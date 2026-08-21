@@ -57,8 +57,41 @@ print(x)
 
 ##Comparison Operators
 print(5 == 5)  # True
-print(5 != 5)  # False
+print(5 != 5)  # False ###"!=" means not equal to
 print(5 > 3)   # True
 print(5 < 3)   # False
 print(5 >= 5)  # True
 print(5 <= 5)  # True
+
+##Logical Operators
+  # and, or, not
+print(True and True)   # True
+     ##for example (4 > 3) and (5 > 2) = True both are true so the answer is True overall
+print(True and False)  # False
+     ##for example (4 > 3) and (5 < 2) = False one is false so the answer is False overall
+print(False and False) # False
+    ##for example (4 < 3) and (5 < 2) = False both are false so the answer is False overall
+print(True or True)    # True
+     ##for example (4 > 3) or (5 < 2) = True one is true so the answer is True overall
+print(True or False)   # True
+     ##for example (4 < 3) or (5 > 2) = True one is true so the answer is True overall
+print(False or False)  # False
+     ##for example (4 < 3) or (5 < 2) = False both are false so the answer is False overall
+print(not True)        # False
+     ##for example not (4 > 3) = False
+print(not False)       # True
+     ##for example not (4 < 3) = True
+##not operator
+ #not --> toggle
+
+ #True --> False
+ #False --> True
+
+##Membership Operators
+"a" in "Aditya"  # True
+"b" in "Aditya"  # False
+"c" not in "Aditya"  # True
+"D" in "Aditya"  # False
+"d" in "Aditya"  # True
+
+##Quizes
