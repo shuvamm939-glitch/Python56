@@ -1,6 +1,7 @@
 ###Operators
 
 ##Arithmetic Operators
+
 print(3+2)
 print(9*3)
 print(9/3)  ##[Single Division] It will give the float value(Ex.3.0)
@@ -54,3 +55,10 @@ x = 20 #Ex.7
 x**= 5
 print(x)
 
+##Comparison Operators
+print(5 == 5)  # True
+print(5 != 5)  # False
+print(5 > 3)   # True
+print(5 < 3)   # False
+print(5 >= 5)  # True
+print(5 <= 5)  # True
