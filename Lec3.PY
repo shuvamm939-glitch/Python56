@@ -99,3 +99,8 @@ print(not False)       # True
 print(10+5) ##Ans:-15
 ##Q2.What will be The Output
 print(10-5) ##Ans:-5 
+##Q3,What Will Be The Output
+print(10*5) ##Ans:-50
+##Q4.What Will Be The Output
+print(10/5) ##Ans:-2.0
+
