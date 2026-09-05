@@ -95,3 +95,7 @@ print(not False)       # True
 "d" in "Aditya"  # True
 
 ##Quizes
+ ##Q1.What will be The Output
+print(10+5) ##Ans:-15
+##Q2.What will be The Output
+print(10-5) ##Ans:-5 
