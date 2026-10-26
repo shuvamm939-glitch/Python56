@@ -42,3 +42,11 @@ print(message7.find('World'))  # Finding the index of the first occurrence of 'W
 message8 = 'Hello World! Hello Everyone!'
 new_message = message8.replace('Hello', 'Hi').replace('World', 'Universe')  # Replacing 'Hello' with 'Hi' and 'World' with 'Universe' in the string
 print(new_message)  # Printing the modified string
+
+
+
+#greeting message using input() function to take user input
+greeting = 'Hello'
+name = input("What is your name? ")
+message = greeting + name
+print(message)
